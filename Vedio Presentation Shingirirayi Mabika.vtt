@@ -1,0 +1,209 @@
+WEBVTT
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/18-0
+00:00:03.607 --> 00:00:07.907
+Today my name is Shingi and I'm
+presenting my.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/36-0
+00:00:08.567 --> 00:00:12.747
+Project my assignment. I'm doing
+the smart building and I'm going
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/36-1
+00:00:12.747 --> 00:00:16.167
+to share my screen to show the
+work that I have done.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/40-0
+00:00:35.117 --> 00:00:35.847
+OK.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/42-0
+00:00:36.987 --> 00:00:37.927
+So.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/45-0
+00:00:38.647 --> 00:00:39.107
+Here.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/67-0
+00:00:39.977 --> 00:00:45.887
+You can see that I've got my
+application that I've got here.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/67-1
+00:00:45.887 --> 00:00:48.987
+I'm going to open it and run it.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/75-0
+00:00:50.377 --> 00:00:53.557
+SP assignment we had coded.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/97-0
+00:00:54.237 --> 00:00:59.763
+The username and the password.
+So welcome to the Smart building
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/97-1
+00:00:59.763 --> 00:01:04.167
+application. You press OK you
+put in the username.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/172-0
+00:01:05.307 --> 00:01:10.414
+Which is user and persuade 1234.
+OK, log in is successful once
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/172-1
+00:01:10.414 --> 00:01:15.684
+the login is successful you can
+go on to 10 online 8:10 alarm on
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/172-2
+00:01:15.684 --> 00:01:20.548
+Enable security, play music or
+whatever you want. So if you
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/172-3
+00:01:20.548 --> 00:01:25.656
+choose to turn on lights then
+the lights will be turned on. If
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/172-4
+00:01:25.656 --> 00:01:30.764
+you choose to turn on alarm it
+will be turned on. If you in in
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/172-5
+00:01:30.764 --> 00:01:35.547
+Enable security it will. If you
+play music it plays music.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/246-0
+00:01:35.717 --> 00:01:40.175
+And if you press the exit
+buttons, it exits and the same
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/246-1
+00:01:40.175 --> 00:01:45.025
+thing happens if you put in a
+wrong card, you cannot proceed.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/246-2
+00:01:45.025 --> 00:01:49.014
+Or if you put in a wrong
+username or a young wrong
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/246-3
+00:01:49.014 --> 00:01:54.021
+password. So for instance if you
+put in a wrong password or the
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/246-4
+00:01:54.021 --> 00:01:58.949
+wrong username, it will not go
+through, then it will fail that
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/246-5
+00:01:58.949 --> 00:02:03.329
+specifically the application for
+the smart building the
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/246-6
+00:02:03.329 --> 00:02:06.067
+assignment wanted us to
+implement.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/248-0
+00:02:06.177 --> 00:02:06.917
+The G.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/254-0
+00:02:08.587 --> 00:02:10.317
+The GRPC.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/277-0
+00:02:11.407 --> 00:02:17.312
+Yes, here is the GRPC and all
+these dependencies have been
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/277-1
+00:02:17.312 --> 00:02:22.117
+copied as indicated and they can
+be shown here.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/294-0
+00:02:22.987 --> 00:02:28.469
+If you Scroll down then you see
+all the dependencies that we
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/294-1
+00:02:28.469 --> 00:02:29.997
+done and we also.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/305-0
+00:02:31.907 --> 00:02:36.927
+Head to indicate the proto or
+the smart building proto.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/311-0
+00:02:37.697 --> 00:02:39.737
+They it is and.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/357-0
+00:02:41.427 --> 00:02:47.440
+These are our protocols where we
+have the log in, log out the
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/357-1
+00:02:47.440 --> 00:02:52.871
+turn on lights, alarm on in
+Nepal security and the play
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/357-2
+00:02:52.871 --> 00:02:58.981
+music. That's the Internet. Then
+the last one is the saver. So
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/357-3
+00:02:58.981 --> 00:03:00.727
+the saver is here.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/365-0
+00:03:01.997 --> 00:03:04.537
+Is indicated we have imported.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/441-0
+00:03:05.437 --> 00:03:10.421
+They Jupiter GRPC server, the
+server builder and the stub.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/441-1
+00:03:10.421 --> 00:03:15.406
+This is what we needed the
+assignment further or needed us
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/441-2
+00:03:15.406 --> 00:03:20.391
+to do the process which are
+indicated here we imported the
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/441-3
+00:03:20.391 --> 00:03:25.037
+protos and we have logged in in
+and here they are. But
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/441-4
+00:03:25.037 --> 00:03:30.360
+unfortunately mine is putting up
+an error. I could not proceed
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/441-5
+00:03:30.360 --> 00:03:35.007
+through but this is what was
+needed by the assignment.
+
+0333d8b7-ddff-4fea-b8d9-c56987a2fa6b/444-0
+00:03:35.407 --> 00:03:36.197
+Thank you.
